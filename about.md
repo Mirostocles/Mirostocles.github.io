@@ -4,4 +4,3 @@ title: About
 permalink: /about/
 ---
 
-Wait to do
