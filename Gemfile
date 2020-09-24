@@ -35,4 +35,5 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # Github alerts
 gem "nokogiri", ">= 1.8.5"
 gem "rubyzip", ">= 1.2.2"
+gem "kramdown", ">= 2.3.0"
 
